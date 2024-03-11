@@ -1,0 +1,49 @@
+/* Style the left pane to be fixed and narrow */
+.left-pane {
+    width: 200px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+}
+
+/* Style the avatar image */
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+/* Style the navigation links */
+.nav-item {
+    line-height: 20px;
+}
+
+.nav-link {
+    margin-bottom: 10px;
+}
+
+/* Style the right content pane */
+.right-pane {
+    margin-left: 200px;
+    padding: 20px;
+}
+
+/* Style the social media icons */
+.social-icons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.social-icons a {
+    font-size: 20px;
+    color: inherit;
+}
+
+section {
+    margin-bottom: 50px;
+}
