@@ -49,11 +49,15 @@ section {
 }
 
 .project-link {
-    color: black; /* Set the default color */
-    text-decoration: none; /* Remove underline by default */
+    color: black;
+    /* Set the default color */
+    text-decoration: none;
+    /* Remove underline by default */
 }
 
 .project-link:hover {
-    color: #0a58ca; /* Change color on hover */
-    text-decoration: underline; /* Add underline on hover */
+    color: #0a58ca;
+    /* Change color on hover */
+    text-decoration: underline;
+    /* Add underline on hover */
 }
